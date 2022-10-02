@@ -81,6 +81,8 @@
 }
 .table_cell {
 }
+.line {
+}
 .snapshot {
 }
 .form_hint {
@@ -99,7 +101,7 @@
 .primary_button {
   color:#FFFFFF;
 }
-.line {
+.line1 {
 }
 .checkbox {
   text-align:left;
@@ -108,6 +110,6 @@
 }
 .button {
 }
-.line1 {
+.line2 {
 }
 textarea, select, input, button { outline: none; }
