@@ -83,6 +83,8 @@
 }
 .line {
 }
+.connector {
+}
 .snapshot {
 }
 .form_hint {
@@ -102,6 +104,9 @@
   color:#FFFFFF;
 }
 .line1 {
+}
+.radio_button {
+  text-align:left;
 }
 .checkbox {
   text-align:left;
